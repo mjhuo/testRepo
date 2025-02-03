@@ -1,0 +1,3 @@
+Putting text here to see if the changes go on GitHub
+
+Next up, I'll do a tutorial about GitHub and hopefully get better with the Git commands
